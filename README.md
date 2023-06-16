@@ -6,6 +6,10 @@ Um repositório com exemplos relevantes e o arquivo de vídeo que deve ser utili
 
 O programa deve ser entregue em um repositório do github contendo uma explicação da implementação no arquivo README.md, além do script Python utilizado e o vídeo gravado com as faces identificadas.
 
+## Demonstração do resultado
+
+https://github.com/Lemos1347/Prova-2-M6-Inteli/assets/99190347/c19d409a-2be7-4aa4-a102-39c437606a32
+
 ## Explicação
 
 Foi desenvolvido duas versões para essa atividade. Uma delas foi com o algoritmo do OpenCV chamado haarcascades e outra com o Yolov8. Isso aconteceu pois o Yolov8 detecta uma pessoa/face melhor que o haarcascades, porém o haarcascades detecta efetivamente uma face, então por via das dúvidas, ambos estão disponíveis nesse repositório:
